@@ -3,7 +3,7 @@ entries:
   demogitrepo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-30T17:01:40.087877099+03:00"
+    created: "2022-12-30T17:26:47.98691705+03:00"
     description: A Helm chart for Kubernetes
     digest: f4f4afd0be4070820e03779d1a449808326805ebab3202838b86c8386276e0ce
     name: demogitrepo
@@ -11,4 +11,15 @@ entries:
     urls:
     - demogitrepo-0.1.0.tgz
     version: 0.1.0
-generated: "2022-12-30T17:01:40.071474641+03:00"
+  second-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-30T17:26:47.999752714+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 9b2b49da72cf68b769688f83b75ab715cf3da9db0106a332fdd7738ae496ea75
+    name: second-chart
+    type: application
+    urls:
+    - second-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-30T17:26:47.974533669+03:00"
